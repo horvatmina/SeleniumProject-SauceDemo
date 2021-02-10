@@ -1,2 +1,2 @@
-# TestAutomation---SauceDemo
+# TestAutomation-SauceDemo
 Website
